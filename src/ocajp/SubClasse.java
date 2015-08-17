@@ -9,7 +9,7 @@ public class SubClasse extends SuperClasse {
 		
 	}
 	public void metodoBestinha(){
-		System.out.println("Método SubClasse");
+		System.out.println("Método SubClasse METODO BESTINHA");
 	}
 
 }
